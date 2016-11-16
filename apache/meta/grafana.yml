@@ -1,0 +1,3 @@
+dashboard:
+  apache:
+    template: apache/files/grafana_influxdb.json
